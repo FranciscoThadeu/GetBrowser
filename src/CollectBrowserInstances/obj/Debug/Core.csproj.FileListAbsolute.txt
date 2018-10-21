@@ -1,0 +1,9 @@
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\bin\Debug\Core.dll
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\bin\Debug\Core.pdb
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\obj\Debug\Core.dll
+C:\Users\FTSOUZA\source\repos\GetBrowserActive\Core\obj\Debug\Core.pdb
